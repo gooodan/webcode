@@ -7,4 +7,5 @@ function addLoadEvent(func) {
 			oldonload();
 			func();
 		}
+	}
 }
